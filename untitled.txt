@@ -1,0 +1,3 @@
+https://github.com/Md Abdul Shokkur/trick.git
+python 
+git.py
